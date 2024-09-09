@@ -5,9 +5,13 @@ export const attributes = {
       link: '/#portfolio',
       text: 'Portfolio',
     },
-    heading: "I'm Paco Cu, and I create",
+    heading: "I'm Flo, and I create",
     image: '/img/hero.jpeg',
-    secondButton: { icon: 'whatsapp', link: '/#about', text: 'About me' },
+    secondButton: {
+      icon: 'whatsapp',
+      link: '/#about',
+      text: 'My Phone number',
+    },
     social: {
       facebook: { link: 'https://facebook.com', show: true },
       instagram: { link: 'https://instagram.com', show: true },
